@@ -19,7 +19,7 @@
 ![GitHub release](https://img.shields.io/badge/Email_1-joyous666ai@gmail.com-blue?logo=gmail)
 
 ## 本書範例使用方法
-本書附有多項機器學習演算法實際案例與基礎範例，執行程式碼都放在.ipynb檔案內。  
+本書附有多項機器學習演算法實際案例與基礎範例，執行程式碼都放在code資料夾內。  
 建議使用google colab直接匯入本.ipynb檔案進行練習。  
 若是要使用本機環境練習開發，可參考本書後面開發環境章節。
 
